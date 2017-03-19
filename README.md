@@ -7,10 +7,10 @@
 
 1. Install the python libraries
 
-  $ pip install -r requirements.txt
+  `$ pip install -r requirements.txt`
 
 2. Run the jupyter
 
-  $ jupyter notebook
+  `$ jupyter notebook`
 
 [venv]: https://virtualenv.pypa.io/en/stable/
